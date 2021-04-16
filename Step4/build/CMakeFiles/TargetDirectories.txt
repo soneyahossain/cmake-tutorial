@@ -1,0 +1,6 @@
+/home/soneya/IdeaProjects/tutorial/Step4/build/CMakeFiles/rebuild_cache.dir
+/home/soneya/IdeaProjects/tutorial/Step4/build/CMakeFiles/edit_cache.dir
+/home/soneya/IdeaProjects/tutorial/Step4/build/CMakeFiles/Tutorial.dir
+/home/soneya/IdeaProjects/tutorial/Step4/build/MathFunctions/CMakeFiles/rebuild_cache.dir
+/home/soneya/IdeaProjects/tutorial/Step4/build/MathFunctions/CMakeFiles/edit_cache.dir
+/home/soneya/IdeaProjects/tutorial/Step4/build/MathFunctions/CMakeFiles/MathFunctions.dir

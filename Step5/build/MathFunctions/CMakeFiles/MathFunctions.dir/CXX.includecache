@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/soneya/IdeaProjects/tutorial/MathFunctions/MathFunctions.h
+
+/home/soneya/IdeaProjects/tutorial/MathFunctions/mysqrt.cxx
+iostream
+-
+MathFunctions.h
+/home/soneya/IdeaProjects/tutorial/MathFunctions/MathFunctions.h
+

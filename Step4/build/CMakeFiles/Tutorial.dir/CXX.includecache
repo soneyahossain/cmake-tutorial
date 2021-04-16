@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/soneya/IdeaProjects/tutorial/Step4/tutorial.cxx
+cmath
+-
+iostream
+-
+string
+-
+TutorialConfig.h
+/home/soneya/IdeaProjects/tutorial/Step4/TutorialConfig.h
+MathFunctions.h
+/home/soneya/IdeaProjects/tutorial/Step4/MathFunctions.h
+
+TutorialConfig.h
+
